@@ -9,5 +9,4 @@ function createHelloWorld() {
  * f(); // "Hello World"
  */
 
-const f = createHelloWorld();
-console.log(f()); // "Hello World"
+export {};

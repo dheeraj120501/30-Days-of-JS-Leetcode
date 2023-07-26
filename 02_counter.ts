@@ -10,3 +10,5 @@ function createCounter(n: number): () => number {
  * counter() // 11
  * counter() // 12
  */
+
+export {};
