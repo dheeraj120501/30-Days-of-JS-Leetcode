@@ -7,3 +7,5 @@ function reduce(nums: number[], fn: Fn, init: number): number {
   }
   return res;
 }
+
+export {};
